@@ -1,1 +1,2 @@
-# for_using_git
+
+the aim of this repository is testing and using git
